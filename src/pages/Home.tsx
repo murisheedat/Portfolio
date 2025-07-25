@@ -4,9 +4,9 @@ const Home: React.FC = () => {
   return (
     <div
       id="Home"
-      className="min-h-screen justify-center items-center text-center px-4 bg-white pt-40 scroll-mt-40"
+      className="min-h-screen justify-center items-center text-center px-4 bg-white pt-10 scroll-mt-40"
     >
-      <div className="flex justify-between pt-20 ">
+      <div className="flex justify-between pt-20 md:flex-row flex-col gap-10 items-center  ">
         <div>
           {" "}
           <h1 className="text-2xl md:text-3xl font-bold mb-4 ">
