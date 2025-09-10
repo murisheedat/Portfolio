@@ -1,4 +1,5 @@
 const projects = [
+ 
   {
     title: "PiggyVest Clone",
     description: "A responsive savings app clone using React and Tailwind CSS.",

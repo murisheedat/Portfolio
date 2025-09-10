@@ -16,12 +16,11 @@ const About = () => {
         <div className="text-center md:text-left">
           <h2 className="text-2xl font-semibold mb-4">About Me</h2>
           <p className="text-gray-700 text-base leading-relaxed max-w-xl">
-            I am a certified full-stack software developer with a solid
-            foundation in building responsive and user-friendly web
-            applications. I specialize in front-end development using
-            TypeScript, React, and Tailwind CSS, and also have hands-on
-            experience with backend technologies like Node.js, Express.js,
-            MongoDB, and RESTful APIs. <br />
+            💻 I am a Front-End Developer skilled in building responsive, accessible,
+             and user-focused web applications. I specialize in JavaScript, React,
+              TypeScript, and Tailwind CSS, with a strong focus on writing clean,
+               maintainable code and delivering high-performance solutions. My goal is to create digital experiences that combine functionality with modern 
+              design, helping businesses and users achieve more. <br />
             <br />
             With a BSc in Mathematics and practical experience from real-world
             projects, I bring analytical thinking and problem-solving skills

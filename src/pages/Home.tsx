@@ -13,14 +13,14 @@ const Home: React.FC = () => {
             👋 Hi, I’m Sulaimon Murisheedat Omobolanle
           </h1>
           <h2 className="text-xl md:text-2xl font-semibold text-blue-600 dark:text-blue-400 mb-6">
-            Certified Full-Stack Software Developer
+            ✨ Front-End Developer | JavaScript • React • TypeScript • Tailwind CSS ✨
           </h2>
           <p className="max-w-xl mb-6">
             I build modern, responsive, and scalable web applications using{" "}
             <span className="font-medium">
-              TypeScript, React, Tailwind CSS, Node.js,
+             JavaScript, TypeScript, React, and Tailwind CSS.
             </span>{" "}
-            and <span className="font-medium">MongoDB</span>. I’m passionate
+            I’m passionate
             about turning ideas into reality with clean code and thoughtful
             design.
           </p>
@@ -42,7 +42,7 @@ const Home: React.FC = () => {
               GitHub
             </a>
             <a
-              href="/Sulaimon_Murisheedat_CV (2).pdf"
+              href="./Sulaimon_Murisheedat_Frontend_Developer_CV (2).pdf"
               download
               className="px-6 py-2 bg-green-600 text-white rounded-full hover:bg-green-700 transition"
             >

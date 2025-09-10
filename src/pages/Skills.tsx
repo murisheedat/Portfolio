@@ -4,18 +4,14 @@ import {
   FaCss3Alt,
   FaJs,
   FaReact,
-  FaNodeJs,
   FaGithub,
   FaGitAlt,
 } from "react-icons/fa";
 import {
   SiTypescript,
   SiTailwindcss,
-  SiMongodb,
-  SiExpress,
-  SiPostman,
   SiVercel,
-  SiApollographql,
+
 } from "react-icons/si";
 
 const techSkills = [
@@ -25,13 +21,8 @@ const techSkills = [
   { name: "TypeScript", icon: <SiTypescript className="text-blue-500" /> },
   { name: "React", icon: <FaReact className="text-cyan-500" /> },
   { name: "Tailwind CSS", icon: <SiTailwindcss className="text-sky-400" /> },
-  { name: "Node.js", icon: <FaNodeJs className="text-green-600" /> },
-  { name: "Express.js", icon: <SiExpress className="text-gray-700" /> },
-  { name: "MongoDB", icon: <SiMongodb className="text-green-500" /> },
-  { name: "REST APIs", icon: <SiApollographql className="text-purple-500" /> },
   { name: "Git", icon: <FaGitAlt className="text-orange-500" /> },
   { name: "GitHub", icon: <FaGithub className="text-black" /> },
-  { name: "Postman", icon: <SiPostman className="text-orange-400" /> },
   { name: "Vercel", icon: <SiVercel className="text-black" /> },
 ];
 
