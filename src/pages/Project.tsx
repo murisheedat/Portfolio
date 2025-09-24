@@ -28,6 +28,14 @@ const projects = [
     demoLink: "https://coolors-alpha.vercel.app/",
     githubLink: "https://github.com/murisheedat/coolors.git",
   },
+  {
+    title: "TradeLink",
+     description:" E-Commerce Web Application, A responsive online shopping platform featuring product catalog, cart, and checkout system. Built with React, TypeScript, Tailwind CSS, Node.js, and MongoDB to showcase full-stack development skills including authentication, API integration, and UI design. ",
+    image: "./TradeLinkImg.png",
+    demoLink: "https://tradelinkfe.netlify.app",
+    githubLink: "https://github.com/TradeLink1/Tradelink-dev.git",
+    
+  },
   // Add more projects as needed
 ];
 
